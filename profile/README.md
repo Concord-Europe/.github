@@ -25,7 +25,7 @@ Every quarter each employee of the company can nominate a non-profit organizatio
 - work from home option
 - hero of the month
 - internal education
-- team mbuildings & corporate events
+- team buildings & corporate events
 - social benefits
 - mentor program
 
